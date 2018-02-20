@@ -1,0 +1,10 @@
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\bin\Debug\netcoreapp2.0\web_api.deps.json
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\bin\Debug\netcoreapp2.0\web_api.runtimeconfig.json
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\bin\Debug\netcoreapp2.0\web_api.runtimeconfig.dev.json
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\bin\Debug\netcoreapp2.0\web_api.dll
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\bin\Debug\netcoreapp2.0\web_api.pdb
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\obj\Debug\netcoreapp2.0\web_api.csproj.CoreCompileInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\obj\Debug\netcoreapp2.0\web_api.AssemblyInfoInputs.cache
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\obj\Debug\netcoreapp2.0\web_api.AssemblyInfo.cs
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\obj\Debug\netcoreapp2.0\web_api.dll
+C:\Users\cgalv\Documents\Personal\Projects\material-angular-example\web_api\obj\Debug\netcoreapp2.0\web_api.pdb
